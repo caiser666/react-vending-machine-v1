@@ -1,0 +1,10 @@
+.swal-toast-custom {
+  /* height: 10px; */
+  max-width: 230px;
+  font-size: 12px !important;
+  font-weight: bolder;
+}
+
+.swal-custom {
+  font-size: 12px !important;
+}
